@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TP10_Fichiers</string>
+    <string name="delete">DELETE</string>
+    <string name="read">READ</string>
+    <string name="save">SAVE</string>
+</resources>
